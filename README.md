@@ -14,7 +14,11 @@ description: >-
 
 ### Solana is all about speed, with 400 milliseconds block time, as hardware gets faster so does the network.
 
-Discover more on solana at Solana.com
+
+
+{% embed url="https://solana.com" %}
+Discover more on solana&#x20;
+{% endembed %}
 
 ## Solana Features
 

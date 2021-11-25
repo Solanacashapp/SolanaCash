@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Welcome to Solana Cash](README.md)
-
 ## Abstract
 
-* [Why Solana](abstract/why-solana.md)
+* [Why Solana](README.md)
 * [What is Solana Cash](abstract/what-is-solana-cash.md)
 * [Road Map](abstract/road-map.md)
 

@@ -6,7 +6,7 @@ description: >-
 
 # Why Solana
 
-## Solana is the fastest Blockchain Technology
+### Solana is the fastest Blockchain Technology
 
 ### Solana ensures composability between ecosystems by maintaining a single global state as the network scales.
 
@@ -21,8 +21,6 @@ description: >-
 3. Block time: 0.4 sec (1 Block)
 4. Consensus Mechanism: Proof of Stake
 
-
-
 {% embed url="https://solana.com" %}
-Discover more on solana&#x20;
+Discover more on solana
 {% endembed %}

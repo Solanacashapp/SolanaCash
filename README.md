@@ -14,12 +14,6 @@ description: >-
 
 ### Solana is all about speed, with 400 milliseconds block time, as hardware gets faster so does the network.
 
-
-
-{% embed url="https://solana.com" %}
-Discover more on solana&#x20;
-{% endembed %}
-
 ## Solana Features
 
 1. Transaction per seconds: 59,000 tps
@@ -27,4 +21,8 @@ Discover more on solana&#x20;
 3. Block time: 0.4 sec (1 Block)
 4. Consensus Mechanism: Proof of Stake
 
-#### Discover more on Solana at Solana.com
+
+
+{% embed url="https://solana.com" %}
+Discover more on solana&#x20;
+{% endembed %}

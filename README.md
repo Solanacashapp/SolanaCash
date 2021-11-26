@@ -1,26 +1,18 @@
----
-description: >-
-  Solana is a decentralized blockchain built to enable scalable, user-friendly
-  app for the world.
----
+# What is Solana Cash
 
-# Why Solana
+Solana Cash is a decentralized cross-chain global payment system that aims to accelerate the adoption of the Solana network around the world by adding more transaction capacity to the network.
 
-#### Solana is the fastest Blockchain Technology
+With Solana being one of the fastest blockchain, our mission is to make the technology widely accessible to the mass through our core products by developing user friendly mobile app to facilitate peer to peer payment system enabling users to send and receive funds securely with less than $0.001 in transaction fees.
 
-#### Solana ensures composability between ecosystems by maintaining a single global state as the network scales.
+30% of our total supply is allocated towards our excessive reward system vested daily for the period of 20 Years. These tokens are distributed to users of our mobile app as rewards based on the total number of daily transactions initiated by each user, which backs up our mission statement of adding more transaction capacity to the Solana network. More details on the reward system will be announced in the near future.
 
-#### Enjoy Low transaction cost forever as Solana's scalability ensures transaction remains less than $0.01
+Core Ecosystems include:
 
-#### Solana is all about speed, with 400 milliseconds block time, as hardware gets faster so does the network.
+1. Solana Cash App
+2. Solcard (Visa)
+3. Staking
+4. Swap/Dex Features
+5. Token Bridge
 
-### Solana Features
 
-1. Transaction per seconds: 59,000 tps
-2. Fees: $0.00001
-3. Block time: 0.4 sec (1 Block)
-4. Consensus Mechanism: Proof of Stake
 
-{% embed url="https://solana.com" %}
-Discover more on solana
-{% endembed %}

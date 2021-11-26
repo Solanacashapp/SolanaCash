@@ -2,8 +2,8 @@
 
 ## Abstract
 
-* [Why Solana](README.md)
-* [What is Solana Cash](abstract/what-is-solana-cash.md)
+* [What is Solana Cash](README.md)
+* [Why Solana](<README (1).md>)
 * [Road Map](abstract/road-map.md)
 
 ## Core Ecosystem

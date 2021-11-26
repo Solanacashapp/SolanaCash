@@ -1,6 +1,6 @@
 # SolanaCash App
 
-![](../.gitbook/assets/design.jpg)
+![](<../.gitbook/assets/design (1).jpg>)
 
 ## Making Crypto Payments as Flexible as Possible
 

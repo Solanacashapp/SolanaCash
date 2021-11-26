@@ -18,7 +18,7 @@
 
 ### Low Transaction Cost
 
-#### Enjoy low cost forever by transacting in the Solana cash mobile app. Due to Solana's scalability users should expect transactions to cost as low as $0.01
+#### Enjoy low cost forever by transacting in the Solana cash mobile app. Due to Solana's scalability users should expect transactions to cost as low as $0.01.
 
 ### Excessive Reward System
 

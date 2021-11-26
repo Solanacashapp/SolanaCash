@@ -1,8 +1,10 @@
 # SolanaCash App
 
+![](../.gitbook/assets/design.jpg)
+
 ## Making Crypto Payments as Flexible as Possible
 
-### Fast Transactions:&#x20;
+### Fast Transactions:
 
 #### Solana Cash is built on the fastest blockchain in the world. Solana Blockchain can process about 50,000 transactions per seconds with block intervals of 400 milliseconds.
 

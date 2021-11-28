@@ -13,8 +13,8 @@
 2. Solanacash token creation and development
 3. Pitch deck & litepaper
 4. Seed & Private Sale
-5. Audit Report by Certik
-6. Launchpad IDO
+5. Launchpad IDO
+6. Audit Report by Certik
 7. Launch on Raydium
 8. CEX Listings
 
@@ -42,6 +42,3 @@
 3. Solanacash Mobile app official Launch
 4. Swap Feature Development
 5. SolCard (Visa) execution
-
-
-

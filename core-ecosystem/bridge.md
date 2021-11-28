@@ -9,3 +9,6 @@
 1. Binance Smart Chain
 2. Polygon Matic
 3. Ethereum
+4. Polkadot
+5. Cardano
+6. Avalanche

@@ -12,15 +12,16 @@
 1. Website and social media creation
 2. Solanacash token creation and development
 3. Pitch deck & litepaper
-4. Seed & Private Sale
-5. Launchpad IDO
-6. Audit Report by Certik
-7. Launch on Raydium
-8. CEX Listings
+4. Seed round
+5. &#x20;Private Sale
+6. Launchpad IDO
+7. Token Contract Audit Report by Certik
+8. Launch on Raydium
+9. CEX Listings
 
 ## Q1 2022
 
-1. Solana Cash Staking Platform
+1. Solana Cash Staking functions release
 2. BSC Bridge on Solanacash
 3. Excessive Marketing
 4. Partnerships

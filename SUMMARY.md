@@ -14,8 +14,8 @@
 
 ## Tokenomics
 
-* [Token Overview](tokenomics/token-overview.md)
 * [Token Metrics](tokenomics/token-metrics.md)
+* [Token Overview](tokenomics/token-overview.md)
 * [Token Vesting Schedule](tokenomics/token-vesting-schedule/README.md)
   * [Distribution Model](tokenomics/token-vesting-schedule/distribution-model.md)
   * [Sale Proceed Allocation](tokenomics/token-vesting-schedule/sale-proceed-allocation.md)

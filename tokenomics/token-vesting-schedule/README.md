@@ -9,6 +9,6 @@
 | Team                | 13%        | 6,500,000    | 1 year locked, Unlocked Quarterly over 5 years        |
 | Advisors            | 2%         | 1,000,000    | 1 year locked, Unlocked Quarterly over 3 years        |
 | Marketing           | 10%        | 5,000,000    | 5% released on TGE, Unlocked quarterly over 5 years   |
-| Rewards/Staki ngs   | 30%        | 15,000,000   | Locked for 6 months, vested daily to users of our app |
+| Rewards/Stakings    | 30%        | 15,000,000   | Locked for 6 months, vested daily to users of our app |
 | Reserve             | 10%        | 5,000,000    | Reserved, TBA                                         |
 | Total               | 100%       | 50,000,000   |                                                       |

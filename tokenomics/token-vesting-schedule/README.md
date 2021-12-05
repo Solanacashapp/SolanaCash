@@ -1,10 +1,17 @@
+---
+description: >-
+  To stabilize price and liquidity of SolanaCash, 10% of all SOLCH tokens will
+  be unlocked upon TGE. The remaining 90% will remain locked fully locked for
+  the first yearfor the period of 5 years, vested
+---
+
 # Token Vesting Schedule
 
 | Token Allocation    | % of Token | Token Amount | Vesting Schedule                                      |
 | ------------------- | ---------- | ------------ | ----------------------------------------------------- |
-| Seed Sale           | 3%         | 1,500,000    | 20% at TGE, 5% unlock weekly                          |
-| Private Sale        | 7%         | 3,500,000    | 25% at TGE, 5% unlock weekly                          |
-| IDO/Public Sales    | 15%        | 7,500,000    | 30% on TGE, 5% unlock weekly                          |
+| Seed Sale           | 3%         | 1,500,000    | 10% at TGE, 5% unlock weekly                          |
+| Private Sale        | 7%         | 3,500,000    | 10% at TGE, 5% unlock weekly                          |
+| IDO/Public Sales    | 15%        | 7,500,000    | 10% on TGE, 5% unlock weekly                          |
 | Project Development | 10%        | 5,000,000    | Released Quarterly over 5 years                       |
 | Team                | 13%        | 6,500,000    | 1 year locked, Unlocked Quarterly over 5 years        |
 | Advisors            | 2%         | 1,000,000    | 1 year locked, Unlocked Quarterly over 3 years        |

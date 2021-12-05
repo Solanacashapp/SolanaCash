@@ -6,7 +6,7 @@ description: >-
 
 # Why Solana
 
-#### Solana is the fastest Blockchain Technology, known for it censorship resistant. Solanacash is built on the solana blockchain
+#### Solana is the fastest Blockchain Technology
 
 #### Solana ensures composability between ecosystems by maintaining a single global state as the network scales.
 
@@ -14,10 +14,10 @@ description: >-
 
 #### Solana is all about speed, with 400 milliseconds block time, as hardware gets faster so does the network.
 
-### Solana Specifications
+### Solana Features
 
 1. Transaction per seconds: 59,000 tps
-2. Fees: $0.0001
+2. Fees: $0.00001
 3. Block time: 0.4 sec (1 Block)
 4. Consensus Mechanism: Proof of Stake
 

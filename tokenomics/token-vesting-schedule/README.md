@@ -18,6 +18,6 @@ To stabilize price and liquidity of SolanaCash, 10% of all SOLCH tokens will be 
 | Team                | 13%        | 6,500,000    | 1 year locked, Unlocked, unlocked linearly for the period of 5 years.          |
 | Advisors            | 2%         | 1,000,000    | 1 year locked, unlocked linearly for the period of 5 years.                    |
 | Marketing           | 10%        | 5,000,000    | 5% released on TGE, Unlocked quarterly over 5 years                            |
-| Rewards/Stakings    | 30%        | 15,000,000   | Locked for 1 year, vested daily to users of our app for the period of 20 years |
+| Rewards             | 30%        | 15,000,000   | Locked for 1 year, vested daily to users of our app for the period of 20 years |
 | Reserve             | 10%        | 5,000,000    | Reserved, TBA                                                                  |
 | Total               | 100%       | 50,000,000   |                                                                                |

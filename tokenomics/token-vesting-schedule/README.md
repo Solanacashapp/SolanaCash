@@ -15,7 +15,7 @@ To stabilize price and liquidity of SolanaCash, 10% of all SOLCH tokens will be 
 | Private Sale        | 7%         | 3,500,000    | 10% at TGE, 1 year locked, then unlocked linearly for the period of 5 years.   |
 | IDO/Public Sales    | 15%        | 7,500,000    | 10% on TGE, 1 year locked, then unlocked linearly for the period of 5 years.   |
 | Project Development | 10%        | 5,000,000    | 6 months locked, released Quarterly over 5 years                               |
-| Team                | 13%        | 6,500,000    | 1 year locked, Unlocked, unlocked linearly for the period of 5 years.          |
+| Team                | 13%        | 6,500,000    | 1 year locked, Unlocked, unlocked linearly for the period of 7 years.          |
 | Advisors            | 2%         | 1,000,000    | 1 year locked, unlocked linearly for the period of 5 years.                    |
 | Marketing           | 10%        | 5,000,000    | 5% released on TGE, Unlocked quarterly over 5 years                            |
 | Rewards             | 30%        | 15,000,000   | Locked for 1 year, vested daily to users of our app for the period of 20 years |

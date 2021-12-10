@@ -12,4 +12,4 @@
 | Private Sale Price         | 0.085                           |
 | ID0/Public Sale            | 0.10                            |
 | Launch Price               | 0.12                            |
-| Initial Circulating Supply | 20% of total supply: 10,000,000 |
+| Initial Circulating Supply | 25% of total supply: 12,500,000 |

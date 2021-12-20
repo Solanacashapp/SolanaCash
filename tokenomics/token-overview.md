@@ -7,11 +7,11 @@ description: 'Total Token Supply: 50,000,000'
 | Token Allocation    | Percentages |
 | ------------------- | ----------- |
 | Seed Sale           | 3%          |
-| Private Sale        | 7%          |
-| IDO                 | 15%         |
+| Private Sale        | 20%         |
+| IDO                 | 5%          |
 | Project Development | 10%         |
 | Rewards/Staking     | 30%         |
-| Team                | 13%         |
+| Team                | 10%         |
 | Advisors            | 2%          |
 | Marketing           | 10%         |
 | Reserve             | 10%         |

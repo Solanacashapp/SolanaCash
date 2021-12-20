@@ -32,14 +32,15 @@
 
 1. Ethereum Bridge on Solanacash
 2. Team Expansion
-3. SolanaCash App Development
-4. Product Testing/ Market Analysis
-5. More Partnerships
+3. Product Market Analysis
+4. MVP Release
+5. SolanaCash App Development
+6. More Partnerships
 
 ## Q3 2022
 
 1. Polygon Bridge on SolanaCash
 2. CEX Listings
-3. Solanacash Mobile app official Launch
+3. Solanacash Mobile app testing
 4. Swap Feature Development
-5. SolCard (Visa) execution
+

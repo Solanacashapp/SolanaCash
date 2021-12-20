@@ -14,19 +14,19 @@
 3. Pitch deck & litepaper
 4. Seed round
 5. Private Sale
-6. Launchpad IDO
-7. Launch on Raydium
-8. Solana Cash Staking functions release
 
 ## Q1 2022
 
-1. CEX Listings
-2. Token Contract Audit Report by Certik
-3. BSC Bridge on Solanacash
-4. Excessive Marketing
-5. Partnerships
-6. CEX Listings
-7. Coin Market Cap & Coingecko Listing
+1. Public Sale IDO
+2. Launch on Raydium
+3. BSC Bridge on Solanacash( Worm Hole)
+4. Primary CEX Listing
+5. Pancakeswap Listing
+6. Solana Cash Staking functions release
+7. Token Contract Audit Report by Certik
+8. Excessive Marketing
+9. Partnerships
+10. Coin Market Cap & Coingecko Listing
 
 ## Q2 2022
 

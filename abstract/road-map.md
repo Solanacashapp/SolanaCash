@@ -23,7 +23,7 @@
 4. Primary CEX Listing
 5. Pancakeswap Listing
 6. Solana Cash Staking functions release
-7. Token Contract Audit Report by Certik
+7. Smart Contract Audit Report by Certik
 8. Excessive Marketing
 9. Partnerships
 10. Coin Market Cap & Coingecko Listing

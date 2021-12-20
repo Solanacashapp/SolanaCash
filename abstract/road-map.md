@@ -23,7 +23,7 @@
 4. Primary CEX Listing
 5. Pancakeswap Listing
 6. Solana Cash Staking functions release
-7. Smart Contract Audit Report by Certik
+7. Token Contract Audit Report by Certik
 8. Excessive Marketing
 9. Partnerships
 10. Coin Market Cap & Coingecko Listing
@@ -32,15 +32,14 @@
 
 1. Ethereum Bridge on Solanacash
 2. Team Expansion
-3. Product Market Analysis
-4. MVP Release
-5. SolanaCash App Development
-6. More Partnerships
+3. SolanaCash App Development
+4. Product Testing/ Market Analysis
+5. More Partnerships
 
 ## Q3 2022
 
 1. Polygon Bridge on SolanaCash
 2. CEX Listings
-3. Solanacash Mobile app testing
+3. Solanacash Mobile app official Launch
 4. Swap Feature Development
-
+5. SolCard (Visa) execution

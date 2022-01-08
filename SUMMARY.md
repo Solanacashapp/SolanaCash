@@ -11,6 +11,7 @@
 * [SolanaCash App](core-ecosystem/solanacash-app.md)
 * [SolCard](core-ecosystem/solcard.md)
 * [Bridge](core-ecosystem/bridge.md)
+* [Staking](core-ecosystem/staking.md)
 
 ## Tokenomics
 

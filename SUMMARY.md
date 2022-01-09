@@ -6,12 +6,13 @@
 * [Why Solana](<README (1).md>)
 * [Road Map](abstract/road-map.md)
 
-## Core Ecosystem
+## Core Ecosystem/ Utility
 
-* [SolanaCash App](core-ecosystem/solanacash-app.md)
-* [SolCard](core-ecosystem/solcard.md)
-* [Bridge](core-ecosystem/bridge.md)
-* [Staking](core-ecosystem/staking.md)
+* [SolanaCash App](core-ecosystem-utility/solanacash-app.md)
+* [SolCard](core-ecosystem-utility/solcard.md)
+* [Bridge](core-ecosystem-utility/bridge.md)
+* [Staking](core-ecosystem-utility/staking.md)
+* [p2p Lending and Borrowing app](core-ecosystem-utility/p2p-lending-and-borrowing-app.md)
 
 ## Tokenomics
 

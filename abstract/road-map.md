@@ -13,34 +13,35 @@
 2. Solanacash token creation and development
 3. Pitch deck & litepaper
 4. Seed round
-5. Private Sale
+5. BSC Bridge on SolanaCash
+6. Ethereum Bridge on SolanaCash
+7. Polygon Bridge on SolanaCash
+8. CoinMarketCap Listing
 
 ## Q1 2022
 
-1. Public Sale IDO
-2. Launch on Raydium
-3. BSC Bridge on Solanacash( Worm Hole)
+1. Smart Contract Audit Report by Certik
+2. Private Sale (February 18th 2022)
+3. Launch on Raydium
 4. Primary CEX Listing
 5. Pancakeswap Listing
 6. Solana Cash Staking functions release
-7. Smart Contract Audit Report by Certik
-8. Excessive Marketing
-9. Partnerships
-10. Coin Market Cap & Coingecko Listing
+7. Excessive Marketing
+8. Partnerships
+9. Coingecko Listing
 
 ## Q2 2022
 
-1. Ethereum Bridge on Solanacash
-2. Team Expansion
-3. Product Market Analysis
-4. MVP Release
-5. SolanaCash App Development
-6. More Partnerships
+1. Team Expansion
+2. Product Market Analysis
+3. MVP Release
+4. SolanaCash App Development
+5. More Partnerships
 
 ## Q3 2022
 
-1. Polygon Bridge on SolanaCash
-2. CEX Listings
-3. Solanacash Mobile app testing
-4. Swap Feature Development
+1. CEX Listings
+2. Solanacash Mobile app testing
+3. Swap Feature Development
+4. P2P Lending and Borrowing Platform Creation
 

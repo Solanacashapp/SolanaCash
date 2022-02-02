@@ -11,8 +11,8 @@ description: >-
 
 | Token Allocation    | % of Token | Token Amount | Vesting Schedule                                                               |
 | ------------------- | ---------- | ------------ | ------------------------------------------------------------------------------ |
-| Seed Sale           | 3%         | 1,500,000    | 20% at TGE, 2 year locked, unlocked monthly 2% thereafter.                     |
-| Private Sale        | 20%        | 10,000,000   | 10% at TGE, 1.5 year locked, unlocked monthly 2% there after                   |
+| Seed Sale           | 3%         | 1,500,000    | 20% at TGE, 2 year locked, unlocked monthly 3.33% monthly after Launch.        |
+| Private Sale        | 20%        | 10,000,000   | 10% at TGE, 1.5 year locked, unlocked monthly 5% after launch.                 |
 | IDO/Public Sales    | 5%         | 2,500,000    | 100% unlocked at TGE                                                           |
 | Project Development | 10%        | 5,000,000    | 1 year locked, released Quarterly over 5 years                                 |
 | Team                | 10%        | 5,000,000    | 2 year locked, then unlocked quarterly for 6 years                             |

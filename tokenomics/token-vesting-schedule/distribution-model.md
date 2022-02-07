@@ -7,6 +7,6 @@ description: Token Sale Distribution model
 | Token Allocation | Token Amount | Hard Cap (USDT) | Price in (USDT) |
 | ---------------- | ------------ | --------------- | --------------- |
 | Seed Sale        | 1,500,000    | $105,000        | $0.07           |
-| Private Sale     | 10,000,000   | $2,500,000      | $0.25           |
-| IDO/Public Sale  | 2,500,000    | $750,000        | TBA             |
-| Total            | 14,000,000   | $3,355,000      |                 |
+| Private Sale     | 5000000      | $1250000        | $0.25           |
+| IDO/Public Sale  | 2,500,000    | TBA             | TBA             |
+| Total            | 9,000,000    | $1,355,000      |                 |

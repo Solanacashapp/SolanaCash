@@ -12,7 +12,7 @@ Solana cash focuses on cross-chain technology to bridge the gap between global f
 
 With the Implementation of Solcard, Solana cash aims to be a fully decentralized financial institution backed by different financial products to reform Defi in variety of ways. Solcard will be available to qualified users of our mobile app to facilitate.
 
-30% of our total supply is allocated towards our excessive reward system vested daily for the period of 20 Years. These tokens are distributed to users of our mobile app as rewards based on the total number of daily transactions initiated by each user, which backs up our mission statement of adding more transaction capacity to the Solana network. More details on the reward system will be announced in the near future.
+40% of our total supply is allocated towards our excessive reward system vested daily for the period of 20 Years. These tokens are distributed to users of our mobile app as rewards based on the total number of daily transactions initiated by each user, which backs up our mission statement of adding more transaction capacity to the Solana network. More details on the reward system will be announced in the near future.
 
 Core Ecosystems include:
 

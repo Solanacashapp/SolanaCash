@@ -12,7 +12,7 @@
 * [SolCard](core-ecosystem-utility/solcard.md)
 * [Bridge](core-ecosystem-utility/bridge.md)
 * [Staking](core-ecosystem-utility/staking.md)
-* [Decentralized P2P Platform](core-ecosystem-utility/decentralized-p2p-platform.md)
+* [Decentralized P2P Platform](core-ecosystem-utility/p2p-lending-and-borrowing-app.md)
 
 ## Tokenomics
 

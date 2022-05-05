@@ -19,3 +19,5 @@ How it works:
 * Escrow and settlement
 * Choose payment method
 * Done
+
+More on this would be available soon at Solanacash.io

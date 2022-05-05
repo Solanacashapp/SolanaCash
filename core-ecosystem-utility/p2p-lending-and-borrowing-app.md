@@ -1,6 +1,14 @@
+---
+description: P2P Coming Soon
+---
+
 # Decentralized P2P Platform
 
-#### &#x20;     While it is great to have a good flow of crypto in your wallet, it is relatively important to be able to convert your crypto into cash for everyday use. Introducing Solana Cash Peer to peer marketplace, a fully decentralized p2p platform on Solana with multiple payment options for both buyers and sellers for crypto trading with low fees and real time wallet to wallet messages communication. Solana Cash aims to provide its users with financial freedom to simply convert crypto to into cash.
+#### &#x20;  &#x20;
+
+![](../.gitbook/assets/image.png)
+
+#### &#x20; While it is great to have a good flow of crypto in your wallet, it is relatively important to be able to convert your crypto into cash for everyday use. Introducing Solana Cash Peer to peer marketplace, a fully decentralized p2p platform on Solana with multiple payment options for both buyers and sellers for crypto trading with low fees and real time wallet to wallet messages communication. Solana Cash aims to provide its users with financial freedom to simply convert crypto to into cash.
 
 P2P Features:
 

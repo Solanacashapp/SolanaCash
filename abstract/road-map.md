@@ -24,24 +24,23 @@
 2. Private Sale (February 18th 2022)
 3. Launch on Raydium
 4. Primary CEX Listing
-5. Pancakeswap Listing
-6. Solana Cash Staking functions release
-7. Excessive Marketing
-8. Partnerships
-9. Coingecko Listing
+5. Solana Cash Staking
+
+
 
 ## Q2 2022
 
 1. Team Expansion
 2. Product Market Analysis
-3. MVP Release
-4. SolanaCash App Development
-5. More Partnerships
+3. P2P Platform MVP Development
+4. Project official Launch
 
 ## Q3 2022
 
 1. CEX Listings
-2. Solanacash Mobile app testing
-3. Swap Feature Development
-4. P2P Lending and Borrowing Platform Creation
+2. P2P Beta Version Release
+3. Solanacash Mobile app Development
+4. Swap Feature Development
+
+
 

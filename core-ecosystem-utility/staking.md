@@ -17,9 +17,3 @@ Stake your SOLCH token now on [https://staking.solanacash.io/](https://staking.s
 | Cash Pot     | 90 Days          | 225% |
 | Cash King    | 180 Days         | 465% |
 | Moon Cash    | 365 Days         | 950% |
-
-1. Lite Cash - 7 days - 15% APY
-2. Stack Cash - 30 days - 70% APY
-3. Cash Pot - 90 days - 225% APY
-4. Cash King - 180 days - 465% APY
-5. Moon Cash - 365 days - 950% APY

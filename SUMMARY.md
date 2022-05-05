@@ -8,11 +8,11 @@
 
 ## Core Ecosystem/ Utility
 
-* [SolanaCash App](core-ecosystem-utility/solanacash-app.md)
+* [Decentralized P2P Platform](core-ecosystem-utility/p2p-lending-and-borrowing-app.md)
+* [Staking](core-ecosystem-utility/staking.md)
 * [SolCard](core-ecosystem-utility/solcard.md)
 * [Bridge](core-ecosystem-utility/bridge.md)
-* [Staking](core-ecosystem-utility/staking.md)
-* [Decentralized P2P Platform](core-ecosystem-utility/p2p-lending-and-borrowing-app.md)
+* [SolanaCash App](core-ecosystem-utility/solanacash-app.md)
 
 ## Tokenomics
 

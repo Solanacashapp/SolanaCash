@@ -8,7 +8,7 @@ description: 'Total Token Supply: 50,000,000'
 | ------------------- | ----------- |
 | Seed Sale           | 3%          |
 | Private Sale        | 10%         |
-| IDO                 | 5%          |
+| Public Sale         | 5%          |
 | Project Development | 10%         |
 | Rewards/Staking     | 40%         |
 | Team                | 10%         |

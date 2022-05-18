@@ -19,5 +19,5 @@ Core Ecosystems include:
 1. Solana Cash App
 2. Solcard&#x20;
 3. Staking
-4. Swap/Dex Features
-5. Token Bridge
+4. Token Bridge
+5. P2P D'app

@@ -6,7 +6,7 @@ description: Lock SOLCH tokens to earn rewards and passive income
 
 #### SolanaCash offers users the option to lock their SOLCH tokens in the staking contract for a certain period of time to earn staking rewards and other unique benefits. Users have staking options, each with different APY and lock time.&#x20;
 
-Stake your SOLCH token now on [https://staking.solanacash.io/](https://staking.solanacash.io)
+Stake your SOLCH token now on [https://staking.solanacash.io/](https://staking.solanacash.io/)
 
 #### Staking Options
 

@@ -10,7 +10,7 @@
 
 * [Decentralized P2P Platform](core-ecosystem-utility/p2p-lending-and-borrowing-app.md)
 * [Staking](core-ecosystem-utility/staking.md)
-* [SolCard](core-ecosystem-utility/solcard.md)
+* [SolCard/ SolanaCash App](core-ecosystem-utility/solcard.md)
 * [Bridge](core-ecosystem-utility/bridge.md)
 * [SolanaCash App](core-ecosystem-utility/solanacash-app.md)
 

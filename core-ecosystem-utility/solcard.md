@@ -1,6 +1,22 @@
-# SolCard
+---
+description: Making Crypto Payments as Flexible as Possible
+---
+
+# SolCard/ SolanaCash App
 
 ![](../.gitbook/assets/1b4babdb-ec00-48a9-b22a-57e9f044439b.JPG)
+
+### Features:
+
+#### Fast Transaction
+
+#### User Friendly & Improved UI/UX
+
+#### Safe & Secured
+
+#### Low transaction cost
+
+#### Excessive reward systems
 
 ### Introducing Solcard:
 
